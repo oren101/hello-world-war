@@ -9,8 +9,8 @@
 	<description>Simplest possible Java Webapp</description>
   
 	<properties>
-               <sonar.projectKey>efihadar_hello-world-war</sonar.projectKey>
-               <sonar.organization>efihadar</sonar.organization>
+               <sonar.projectKey>oren101_hello-world-war</sonar.projectKey>
+               <sonar.organization>oren101</sonar.organization>
 	       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
                <sonar.login>3cb2025b49a4bb0f87d049eb75c0f6a37cf9734c</sonar.login>
         </properties>
